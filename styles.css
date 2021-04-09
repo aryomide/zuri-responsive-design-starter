@@ -365,9 +365,13 @@ div.footer h6 {
         display: none;
     }
     .menu a {
+        position: relative;
         display: block;
         border-bottom: 1px solid #eaeaeb;
         margin: 0;
+        width: 100%;
+        background: #304353
+        
     }
 
     .menu a:hover {
